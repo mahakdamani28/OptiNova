@@ -1,0 +1,12 @@
+# Local database backup
+*.sql
+# environment/secrets
+.env
+.env.*
+# wamp / local server files
+*.log
+# OS files
+.DS_Store
+Thumbs.db
+#Editor files
+.vscode/
