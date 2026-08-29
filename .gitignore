@@ -1,5 +1,4 @@
-# Local database backup
-*.sql
+
 # environment/secrets
 .env
 .env.*
