@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>OptiNova.com</title>
-    <link rel="stylesheet" href="/OptiNova/assets/css/styles.css">
-    <script src="/OptiNova/assets/js/script.js" defer></script>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="/assets/js/script.js" defer></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
@@ -12,7 +12,7 @@
   <div class="nav-container">
     <!-- Logo -->
     <div class="logo">
-      <img src="/OptiNova/images/indeximgs/logo.jpg" alt="OptiNova Logo">
+      <img src="/images/indeximgs/logo.jpg" alt="OptiNova Logo">
       <span>OptiNova</span>
     </div>
     <!-- Navigation Links -->
@@ -41,18 +41,18 @@
             </div>
           </div>
         </li>
-        <li><a href="/OptiNova/index.php"><i class="fa-solid fa-house"></i> Home</a></li>
-        <li><a href="/OptiNova/pages/wishlist.php"><i class="fa-regular fa-heart"></i> Wishlist</a></li>
-        <li><a href="/OptiNova/pages/deals.php"><i class="fa-solid fa-fire-flame-curved"></i>Today's deals</a></li>
-        <li><a href="/OptiNova/pages/contact.php"><i class="fa-solid fa-phone"></i> Contact us</a></li>
+        <li><a href="/index.php"><i class="fa-solid fa-house"></i> Home</a></li>
+        <li><a href="/pages/wishlist.php"><i class="fa-regular fa-heart"></i> Wishlist</a></li>
+        <li><a href="/pages/deals.php"><i class="fa-solid fa-fire-flame-curved"></i>Today's deals</a></li>
+        <li><a href="/pages/contact.php"><i class="fa-solid fa-phone"></i> Contact us</a></li>
       </ul>
     </nav>
     <!-- Cart & Login -->
     <div class="nav-right">
-      <a href="/OptiNova/login.php"><i class="fa-solid fa-right-to-bracket"></i> Login</a> | <a href="/OptiNova/pages/cart.php"><i class="fa-solid fa-cart-shopping"></i> Cart</a>
+      <a href="/login.php"><i class="fa-solid fa-right-to-bracket"></i> Login</a> | <a href="/pages/cart.php"><i class="fa-solid fa-cart-shopping"></i> Cart</a>
     </div>
     <div  id="user">
-      <a href="/OptiNova/dashboard.php"><i class="fa-solid fa-user"></i></a>
+      <a href="/dashboard.php"><i class="fa-solid fa-user"></i></a>
   </div>
   <style>
   .search-input {

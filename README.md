@@ -213,7 +213,7 @@ return [
 Open the following URL in your browser:
 
 ```text
-http://localhost/OptiNova/
+http://localhost/
 ```
 
 ---

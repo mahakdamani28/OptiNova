@@ -2,14 +2,14 @@
 session_start();
 if (!isset($_SESSION['username'])) 
     {
-    header("Location: /OptiNova/login.php");
+    header("Location: /login.php");
     exit();
 }
 include "includes/header.php";
 ?>
 <button class="back-btn" onclick="goBack()">← Back</button>
-<link rel="stylesheet" href="/OptiNova/assets/css/styles.css">
-<script src="/OptiNova/assets/js/script.js"></script>
+<link rel="stylesheet" href="/assets/css/styles.css">
+<script src="/assets/js/script.js"></script>
 <div class="dashboard-container">
    <h1>Welcome, <?php echo ucfirst($_SESSION['username']); ?> 👋</h1>
     <p class="subtitle">Your OptiNova control panel</p>

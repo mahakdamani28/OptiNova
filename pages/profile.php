@@ -61,8 +61,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 <?php include "../includes/header.php"; ?>
-<link rel="stylesheet" href="/OptiNova/assets/css/styles.css">
-<script src="/OptiNova/assets/js/script.js" defer></script>
+<link rel="stylesheet" href="/assets/css/styles.css">
+<script src="/assets/js/script.js" defer></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" crossorigin="anonymous" />
 
 <div class="profile-container">

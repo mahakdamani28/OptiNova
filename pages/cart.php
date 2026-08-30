@@ -76,8 +76,8 @@ if (isset($_POST['update_cart'])) {
 }
 ?>
 <?php include '../includes/header.php'; ?>
-<link rel="stylesheet" href="/OptiNova/assets/css/styles.css">
-<script src="/OptiNova/assets/js/script.js" defer></script>
+<link rel="stylesheet" href="/assets/css/styles.css">
+<script src="/assets/js/script.js" defer></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 <div class="container" style="padding:40px;">
     <h2 style="margin-bottom:20px;">My Cart</h2>
@@ -152,7 +152,7 @@ Proceed to Checkout (₹<?= number_format($total, 2); ?>)
      <button type="button" 
      class="btn update-btn-dark" 
      style="background:#222; color:#fff; padding:12px 15px; border:none; cursor:pointer; flex:1; text-align:center; border-radius:4px;"
-     onclick="alert('⚠️ Please login to proceed to checkout!'); window.location.href='/OptiNova/login.php';">
+     onclick="alert('⚠️ Please login to proceed to checkout!'); window.location.href='/login.php';">
      Proceed to Checkout (₹<?= number_format($total, 2); ?>)
     </button>
     <?php endif; ?>

@@ -1,5 +1,5 @@
 <?php include "../includes/header.php"; ?>
-<link rel="stylesheet" href="/OptiNova/assets/css/styles.css">
+<link rel="stylesheet" href="/assets/css/styles.css">
 <button class="back-btn" onclick="goBack()">← Back</button>
 <!DOCTYPE html>
 <html lang="en">

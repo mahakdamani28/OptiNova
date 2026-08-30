@@ -9,8 +9,8 @@ include "../includes/header.php";
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="OptiNova Terms and Conditions - Read the terms that govern the use of our website and purchases of eyeglasses, sunglasses, lenses, and optical accessories.">
     <title>Terms & Conditions | OptiNova</title>
-    <link rel="stylesheet" href="/OptiNova/assets/css/styles.css"> 
-    <script src="/OptiNova/assets/js/script.js" defer></script>
+    <link rel="stylesheet" href="/assets/css/styles.css"> 
+    <script src="/assets/js/script.js" defer></script>
 </head>
 <body>
 <div class="rcontainer">

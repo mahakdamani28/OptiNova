@@ -4,7 +4,7 @@ include '../db.php';
 
 /* Safety check */
 if (!isset($_SESSION['total_amount'])) {
-    header("Location: /OptiNova/pages/cart.php");
+    header("Location: /pages/cart.php");
     exit;
 }
 

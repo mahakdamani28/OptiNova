@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>About Us | OptiNova</title>
   <link rel="stylesheet" href="../assets/css/style.css">
-  <script src="/OptiNova/assets/js/script.js" defer></script>
+  <script src="/assets/js/script.js" defer></script>
 </head>
 <body>
   <section class="about-hero">
@@ -44,7 +44,7 @@
     <div class="container">
       <h2>Join the OptiNova Family</h2>
       <p>Discover eyewear that suits your vision and your style.</p>
-      <a href="/OptiNova/index.php" class="btn">Shop Now</a>
+      <a href="/index.php" class="btn">Shop Now</a>
     </div>
   </section>
 <?php include("../includes/footer.php"); ?>

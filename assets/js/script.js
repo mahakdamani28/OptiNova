@@ -189,7 +189,7 @@ function goBack() {
   if (window.history.length > 1) {
     window.history.back();
   } else {
-    window.location.href = "/OptiNova/index.php";
+    window.location.href = "/index.php";
   }
 }
 

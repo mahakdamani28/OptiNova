@@ -10,7 +10,7 @@ $result = mysqli_query($conn, $query);
 <head>
   <meta charset="UTF-8">
   <title>Deals | OptiNova</title>
-  <link rel="stylesheet" href="/OptiNova/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
 <body>
 <button class="back-btn" onclick="goBack()">← Back</button>

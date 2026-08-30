@@ -1,5 +1,5 @@
 <footer class="footer">
-  <link rel="stylesheet" href="/OptiNova/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/styles.css">
   <div class="footer-container">
     <!-- About Section -->
     <div class="footer-col">
@@ -13,9 +13,9 @@
     <div class="footer-col">
       <h3>Quick Links</h3>
       <ul>
-        <li><a href="/OptiNova/index.php">Home</a></li>
-        <li><a href="/OptiNova/pages/about.php">About Us</a></li>
-        <li><a href="/OptiNova/pages/contact.php">Contact Us</a></li>
+        <li><a href="/index.php">Home</a></li>
+        <li><a href="/pages/about.php">About Us</a></li>
+        <li><a href="/pages/contact.php">Contact Us</a></li>
       </ul>
     </div>
     <!-- Customer Support -->
